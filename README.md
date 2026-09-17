@@ -1,4 +1,4 @@
-# Noise-resilient Mineralogical Fingerprinting of Solid Waste Sources through Anthropogenic Typomorphic Mineral Assemblages
+# Robust source tracing for solid waste via machine learning-enabled mineralogical fingerprinting
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B?logo=streamlit)](https://streamlit.io)
