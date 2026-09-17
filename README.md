@@ -34,5 +34,15 @@ pip install -r requirements.txt
 ### 📝 Citation
 If you use this code or framework in your research, please cite our paper:
 ```bibtex
-
+@article{LIN2026109068,
+title = {Robust source tracing for solid waste via machine learning-enabled mineralogical fingerprinting},
+journal = {Resources, Conservation and Recycling},
+volume = {234},
+pages = {109068},
+year = {2026},
+issn = {0921-3449},
+doi = {https://doi.org/10.1016/j.resconrec.2026.109068},
+url = {https://www.sciencedirect.com/science/article/pii/S0921344926002922},
+author = {Le Lin and Changhai Ren and Shen Qu and Yang Xiao and Yin Li and Xueming Liu and Han Wang and Zhang Lin}
+}
 ```
